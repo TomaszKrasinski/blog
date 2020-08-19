@@ -1,0 +1,8 @@
+.comment {
+  height: 80px;
+  width: 170px;
+  resize: none;
+}
+.form {
+  display: table-caption;
+}

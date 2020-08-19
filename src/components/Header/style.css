@@ -1,0 +1,15 @@
+.headerMenu {
+  margin: 10px 0;
+  text-align: center;
+}
+.headerMenu a {
+  display: inline-block;
+  margin: 0 30px;
+  text-decoration: none;
+  color: rgb(36, 36, 36);
+  font-size: 24px;
+  letter-spacing: 1.1px;
+}
+.headerMenu a:hover {
+  color: black;
+}
